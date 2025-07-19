@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Greetings
+TBD
 <!--
 **amateur-linux-fanboi/amateur-linux-fanboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
