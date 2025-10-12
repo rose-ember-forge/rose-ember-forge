@@ -1,4 +1,4 @@
-# 👋 Ahoy! Welcome to Raghu’s GitHub!
+<h1 align=center>👋 Ahoy! Welcome to Raghu’s GitHub!</h1>
 
 Hello! I’m **Raghunandan**, a researcher and data scientist with a background in **physics** and a strong interest in **artificial intelligence for healthcare**. My work lies at the intersection of neuroscience, machine learning, and interpretability — exploring how computational models can both emulate and elucidate biological intelligence.
 
