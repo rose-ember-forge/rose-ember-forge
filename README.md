@@ -4,7 +4,7 @@ Hello! I’m **Raghunandan**, a researcher and data scientist with a background 
 
 ---
 
-<p align="center"><i>🔜 Migrating handle to <b>@rose_ember_forge</b></i></p>
+<p align="center"><i>🔜 Migrating handle to <b>@rose-ember-forge</b></i></p>
 
 ---
 
