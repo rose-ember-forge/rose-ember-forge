@@ -4,6 +4,10 @@ Hello! I’m **Raghunandan**, a researcher and data scientist with a background 
 
 ---
 
+<p align="center"><i>🔜 Migrating handle to <b>@rose_ember_forge</b></i></p>
+
+---
+
 ## 🧩 Research & Academic Background
 
 - 🎓 **Masters in AI for Health**, DSV, Stockholm University (in progress)  
