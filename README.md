@@ -4,7 +4,7 @@ Hello! I’m **Raghunandan**, a researcher and data scientist with a background 
 
 ---
 
-<h3 align=center> **Notice:** Porting username to rose-ember-forge </h3>
+<h3 align=center> Notice: Porting username to rose-ember-forge </h3>
 
 ---
 
