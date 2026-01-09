@@ -4,6 +4,10 @@ Hello! I’m **Raghunandan**, a researcher and data scientist with a background 
 
 ---
 
+<h3 align=center> **Notice:** Porting username to rose-ember-forge </h3>
+
+---
+
 ## 🧩 Research & Academic Background
 
 - 🎓 **Masters in AI for Health**, DSV, Stockholm University (in progress)  
@@ -52,9 +56,9 @@ Machine Learning, Data Analysis, Model Evaluation, Visualisation, Scientific Com
 
 ---
 
-## 🌍 Beyond Research
+## 🌍 Beyond Academics
 
-Outside the lab, I enjoy **cycling, swimming, running, and gaming**.
+Off the clock, I enjoy **cycling, swimming, running, and gaming**.
 I also dabble in digital art, and try to make my own wallpapers for my phone and computer.
 
 
