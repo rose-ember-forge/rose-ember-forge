@@ -40,7 +40,7 @@ I approach AI research with a physicist’s curiosity — seeking underlying pri
 ## 💡 Technical Proficiencies
 
 **Programming & Tools:**  
-Python (NumPy, Pandas, PyTorch, Matplotlib), Linux, Git, Inkscape, LaTeX
+Python (NumPy, Pandas, PyTorch, scikit-Learn, Matplotlib), SQL, Linux, Git, Inkscape, LaTeX
 
 **Core Competencies:**  
 Machine Learning, Data Analysis, Model Evaluation, Visualisation, Scientific Communication
