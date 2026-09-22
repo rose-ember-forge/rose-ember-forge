@@ -4,7 +4,7 @@ Hello! I’m **Raghunandan**, a researcher and data scientist with a background 
 
 ## 🧩 Research & Academic Background
 
-- 🎓 **Masters in AI for Health**, DSV, Stockholm University (in progress)  
+- 🎓 **Masters in AI for Health**, DSV, Stockholm University   
   *Focus:* Deep learning for healthcare applications, model interpretability, and data ethics.
 
 - 🧠 **Previous Research:** Neurophysics and computational neuroscience  
