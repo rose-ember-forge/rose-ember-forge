@@ -20,11 +20,11 @@ I approach AI research with a physicist’s curiosity — seeking underlying pri
 
 ## 🧮 Selected Projects
 
-- **Book Recommender Web App**  
-  Combines NLP techniques for sentiment analysis, genre prediction, and automated summary generation.
+- **[Skill Trends in Swedish Data Jobs](https://github.com/rose-ember-forge/Skill-Trends-in-Data-Jobs-in-Sweden)**  
+  Analyses 7.7 million Arbetsförmedlingen job ads (2016–2026) to track which skills Swedish employers ask data professionals for, with a DuckDB pipeline, a tested skill extractor, a Power BI report and a Streamlit dashboard.
 
-- **Multi-Step RNN Model (PyTorch)**  
-  Implements recurrent architectures for sequential prediction and temporal data analysis.
+- **[Forecasting Electricity Prices in Stockholm](https://github.com/rose-ember-forge/Forecasting-Electricity-Prices-in-Stockholm)**  
+  Day-ahead price forecasts for bidding zone SE3. A LEAR + LightGBM ensemble cuts error by 44% against the naive benchmark, with calibrated 80% intervals and a daily forecast run by GitHub Actions.
 
 - **Neural Dynamics Simulation**  
   Early experiments in training AI models inspired by the behaviour of biological neurons.
@@ -34,10 +34,10 @@ I approach AI research with a physicist’s curiosity — seeking underlying pri
 ## 💡 Technical Proficiencies
 
 **Programming & Tools:**  
-Python (NumPy, Pandas, PyTorch, scikit-Learn, Matplotlib), SQL, Linux, Git, Inkscape, LaTeX
+Python (NumPy, Pandas, PyTorch, scikit-learn, LightGBM, Matplotlib, Plotly), SQL (DuckDB), Power BI (DAX), Streamlit, GitHub Actions, pytest, Linux, Git, Inkscape, LaTeX
 
 **Core Competencies:**  
-Machine Learning, Data Analysis, Model Evaluation, Visualisation, Scientific Communication
+Machine Learning, Time Series Forecasting, Data Analysis, Data Pipelines (ETL), Text Mining, Statistical Testing, Uncertainty Quantification, Model Evaluation, Dashboards & Visualisation, Scientific Communication
 
 ---
 
@@ -55,9 +55,6 @@ Machine Learning, Data Analysis, Model Evaluation, Visualisation, Scientific Com
 Off the clock, I enjoy **cycling, swimming, running, and gaming**.
 I also dabble in digital art, and try to make my own wallpapers for my phone and computer.
 
-
 ---
 
 > _Semper Verus, Semper Fidelis_ 🦊
-
-
