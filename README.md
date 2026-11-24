@@ -2,6 +2,8 @@
 
 Hello! I’m **Raghunandan**, a researcher and data scientist with a background in **physics** and a strong interest in **artificial intelligence for healthcare**. My work lies at the intersection of neuroscience, machine learning, and interpretability — exploring how computational models can both emulate and elucidate biological intelligence.
 
+Check out my portfolio website: [https://rose-ember-forge.github.io/](https://rose-ember-forge.github.io/)
+
 ## 🧩 Research & Academic Background
 
 - 🎓 **Masters in AI for Health**, DSV, Stockholm University   
